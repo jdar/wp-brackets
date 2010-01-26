@@ -1,0 +1,17 @@
+
+	table {
+	  border-collapse: collapse;
+	  border: none;
+	  font: small arial, helvetica, sans-serif;
+	}
+	td {
+	  vertical-align: middle;
+	  width: 10em;
+	  margin: 0;
+	  padding: 0;
+	}
+	td p {
+	  border-bottom: solid 1px black;
+	  margin: 0;
+	  padding: 5px 5px 2px 5px;
+	}

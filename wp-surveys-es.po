@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Surveys\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-surveys\n"
+"POT-Creation-Date: 2008-12-09 19:00+0000\n"
+"PO-Revision-Date: 2008-12-09 20:06+0100\n"
+"Last-Translator: Martin Mozos <martinmozos@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:11
+msgid "Edit Survey"
+msgstr "Editar encuesta"
+
+#: functions.php:14
+#: functions.php:291
+msgid "Survey Title"
+msgstr "Título de la encuesta"
+
+#: functions.php:20
+msgid "Survey Description"
+msgstr "Guardar respuestas"
+
+#: functions.php:26
+msgid "Days until user can repost"
+msgstr "Días hasta que puedan volver a contestar"
+
+#: functions.php:46
+#: functions.php:110
+#: functions.php:123
+#: functions.php:416
+#: functions.php:511
+#: functions.php:518
+msgid "Go back!"
+msgstr "Atrás"
+
+#: functions.php:47
+#: functions.php:111
+#: wp-surveys.php:157
+msgid "Add More Questions"
+msgstr "Añadir más preguntas"
+
+#: functions.php:48
+#: functions.php:112
+#: functions.php:125
+#: wp-surveys.php:147
+msgid "Update"
+msgstr "Actualizar"
+
+#: functions.php:51
+#: functions.php:115
+#: functions.php:128
+#: wp-surveys.php:151
+msgid "Activate"
+msgstr "Activar"
+
+#: functions.php:53
+#: functions.php:117
+#: functions.php:130
+#: wp-surveys.php:153
+#: wp-surveys.php:193
+msgid "Retire"
+msgstr "Retirar"
+
+#: functions.php:58
+#, php-format
+msgid "Question %s:"
+msgstr "Pregunta %s:"
+
+#: functions.php:61
+msgid "Alignment Vertical"
+msgstr "Alineación vertical"
+
+#: functions.php:63
+msgid "Alignment Horizontal"
+msgstr "Alineación horizontal"
+
+#: functions.php:65
+msgid "Alignment Menu"
+msgstr "Alineación Menu"
+
+#: functions.php:96
+#: wp-surveys.php:155
+msgid "Edit Options"
+msgstr "Editar respuestas"
+
+#: functions.php:98
+#: wp-surveys.php:155
+msgid "Edit or Add more Options"
+msgstr "Editar o añadir mas respuestas"
+
+#: functions.php:100
+#: functions.php:496
+#: wp-surveys.php:155
+msgid "Add Some Options"
+msgstr "Añadir alguna respuesta"
+
+#: functions.php:124
+#: functions.php:401
+#: functions.php:517
+#: wp-surveys.php:157
+msgid "Add Some Questions"
+msgstr "Añadir alguna pregunta"
+
+#: functions.php:143
+#: functions.php:159
+#: functions.php:173
+msgid "ERROR!!"
+msgstr "ERROR!!"
+
+#: functions.php:144
+msgid "Question Title have been left empty!"
+msgstr "¡No se ha definido el título de la pregunta!"
+
+#: functions.php:144
+#: functions.php:160
+#: functions.php:175
+msgid "No changes had been made in database"
+msgstr "No se ha realizado ningún cambio en la base de datos"
+
+#: functions.php:160
+msgid "Days until user can repost must be a number bigger than zero!"
+msgstr "¡Los días hasta que puedan volver a contestar tiene que ser un número mayor que cero!"
+
+#: functions.php:174
+#, php-format
+msgid "Question %s have been left empty!"
+msgstr "¡No se ha definido la pregunta %s!"
+
+#: functions.php:185
+#: functions.php:217
+msgid "No changes had been made"
+msgstr "No se ha realizado ningún cambio"
+
+#: functions.php:195
+#: functions.php:222
+msgid "Update Complete!"
+msgstr "¡Actualización completa!"
+
+#: functions.php:195
+#: functions.php:222
+#: functions.php:234
+#: functions.php:243
+msgid "Changes have been applied"
+msgstr "Los cambios han sido guardados"
+
+#: functions.php:223
+#: functions.php:384
+#: wp-surveys.php:145
+msgid "Back to Edit Survey"
+msgstr "Volver a editar la encuesta"
+
+#: functions.php:224
+#: functions.php:385
+#: functions.php:402
+msgid "Continue"
+msgstr "Continuar"
+
+#: functions.php:234
+msgid "Activation Complete!"
+msgstr "¡Activación completa!"
+
+#: functions.php:243
+msgid "Retire Complete!"
+msgstr "¡Encuesta retirada!"
+
+#: functions.php:260
+msgid "CAUTION!!"
+msgstr "¡¡CUIDADO!!"
+
+#: functions.php:260
+msgid "Changing the text of options will affect the way that results are compiled for display on your site. Only current options (case-sensitive text) will be tallied in result generation"
+msgstr "El cambio de opciones de respuesta afectará a la forma que los resultados son guardados. Sólo las actuales opciones serán coincididas en la generación del resultado"
+
+#: functions.php:260
+#: functions.php:283
+msgid "Back to manage surveys"
+msgstr "Volver a gestionar las encuestas"
+
+#: functions.php:262
+msgid "Edit/Update Options"
+msgstr "Editar/Modificar Respuestas"
+
+#: functions.php:267
+#: functions.php:269
+#: functions.php:301
+#: functions.php:467
+msgid "Question"
+msgstr "Pregunta"
+
+#: functions.php:274
+#: functions.php:361
+#, php-format
+msgid "Option %s"
+msgstr "Respuesta %s"
+
+#: functions.php:281
+#: wp-surveys.php:149
+msgid "Update Options"
+msgstr "Actualizar Respuestas"
+
+#: functions.php:282
+#: wp-surveys.php:145
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: functions.php:289
+msgid "Add a New Survey"
+msgstr "Añadir nueva encuesta"
+
+#: functions.php:292
+#: wp-surveys.php:183
+#: wp-surveys.php:215
+msgid "Description"
+msgstr "Descripción"
+
+#: functions.php:294
+#: wp-surveys.php:165
+msgid "Add This Survey"
+msgstr "Añadir"
+
+#: functions.php:299
+msgid "Step 1: Define Question"
+msgstr "Paso 1: Define la pregunta"
+
+#: functions.php:303
+msgid "Alignment"
+msgstr "Alineación"
+
+#: functions.php:311
+msgid "Select answers alignment"
+msgstr "Selecciona la alineación de las respuestas"
+
+#: functions.php:314
+msgid "Choice - Vertical"
+msgstr "Opción - Vertical"
+
+#: functions.php:317
+msgid "Choice - Horizontal"
+msgstr "Opción - Horizontal"
+
+#: functions.php:320
+msgid "Choice - Menu"
+msgstr "Opción - Menu"
+
+#: functions.php:336
+#: wp-surveys.php:159
+msgid "Step 2"
+msgstr "Paso 2"
+
+#: functions.php:341
+msgid "Please, fill all fields!!"
+msgstr "¡¡Por favor rellena todos los campos!!"
+
+#: functions.php:345
+msgid "Please, fill Question field!!"
+msgstr "¡¡Por favor rellena el campo Pregunta!!"
+
+#: functions.php:349
+msgid "Please, select answers Alignment!!"
+msgstr "¡¡Por favor selecciona la Alineación de las respuestas!!"
+
+#: functions.php:354
+msgid "Step 2: Create your question options"
+msgstr "Paso 2: Crea las respuestas de tu pregunta"
+
+#: functions.php:356
+msgid "Questions can have up to ten response options. List your options below"
+msgstr "Las preguntas pueden tener un máximo de diez opciones de respuesta. Escribe tus opciones aquí"
+
+#: functions.php:372
+#: wp-surveys.php:161
+msgid "Create Question"
+msgstr "Crear encuesta"
+
+#: functions.php:381
+msgid "Step 3: Updating Database..."
+msgstr "Paso 3: Actualizando la base de datos..."
+
+#: functions.php:382
+msgid "Complete!"
+msgstr "¡Actualización completa!"
+
+#: functions.php:390
+msgid "Please, fill Title field!!"
+msgstr "¡Por favor rellena el campo Título!"
+
+#: functions.php:400
+msgid "Survey succesfully created!"
+msgstr "¡La encuesta ha sido creada correctamente!"
+
+#: functions.php:400
+msgid "Thank You. A new survey has been added and the previous survey has been retired"
+msgstr "Gracias, una nueva encuesta ha sido creada y la anterior retirada"
+
+#: functions.php:415
+msgid "Your Survey Results"
+msgstr "Resultados de tu encuesta"
+
+#: functions.php:454
+#: wp-surveys.php:125
+#: wp-surveys-out.php:101
+msgid "No response recorded"
+msgstr "No hay respuestas guardadas"
+
+#: functions.php:479
+#, php-format
+msgid "%s responses"
+msgstr "%s respuestas"
+
+#: functions.php:495
+#: wp-surveys.php:123
+msgid "No option(s) defined yet"
+msgstr "No hay respuestas definidas"
+
+#: functions.php:516
+msgid "There are no Question defined yet"
+msgstr "Todavía no hay ninguna pregunta definida"
+
+#: wp-surveys.php:60
+msgid "Surveys"
+msgstr "Encuestas"
+
+#: wp-surveys.php:85
+#: wp-surveys-out.php:188
+msgid "Submit Survey"
+msgstr "Guardar encuesta"
+
+#: wp-surveys.php:145
+#: wp-surveys.php:191
+#: wp-surveys.php:223
+msgid "Edit"
+msgstr "Editar"
+
+#: wp-surveys.php:151
+#: wp-surveys.php:225
+msgid "Make Active"
+msgstr "Activar"
+
+#: wp-surveys.php:163
+#: wp-surveys.php:202
+msgid "Change Survey"
+msgstr "Cambiar encuesta"
+
+#: wp-surveys.php:163
+#: wp-surveys.php:209
+msgid "Add Survey"
+msgstr "Añadir encuesta"
+
+#: wp-surveys.php:167
+#: wp-surveys.php:195
+#: wp-surveys.php:227
+msgid "View Survey Results"
+msgstr "Ver resultados"
+
+#: wp-surveys.php:180
+msgid "Survey Management"
+msgstr "Gestión de encuestas"
+
+#: wp-surveys.php:180
+msgid "Active Survey"
+msgstr "Encuesta activa"
+
+#: wp-surveys.php:183
+#: wp-surveys.php:215
+msgid "Title"
+msgstr "Título"
+
+#: wp-surveys.php:202
+msgid "Current Survey will be saved as Retired"
+msgstr "La encuesta actual se guardará como retirada"
+
+#: wp-surveys.php:205
+msgid "There are no open surveys"
+msgstr "No hay encuestas abiertas"
+
+#: wp-surveys.php:212
+msgid "Retired Surveys"
+msgstr "Encuestas retiradas"
+
+#: wp-surveys.php:234
+msgid "There are no retired surveys"
+msgstr "No hay encuestas retiradas"
+
+#: wp-surveys-out.php:10
+msgid "Thank you for your assistance in completing our survey!"
+msgstr "¡Gracias por el tiempo dedicado en completar nuestra encuesta!"
+
+#: wp-surveys-out.php:22
+msgid "Oops, you forgot to vote for one or more of the questions!"
+msgstr "Ups, has olvidado votar alguna(s) pregunta(s)!"
+
+#: wp-surveys-out.php:101
+msgid "Select an answer below"
+msgstr "Selecciona una respuesta"
+
+#: wp-surveys-out.php:191
+msgid "This survey has no questions yet."
+msgstr "Esta encuesta todavía no tiene ninguna pregunta."
+
+#: wp-surveys-out.php:193
+msgid "There are no surveys to display."
+msgstr "No hay ninguna encuesta que mostrar."
+

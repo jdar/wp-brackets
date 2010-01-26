@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Surveys\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-surveys\n"
+"POT-Creation-Date: 2008-12-09 19:00+0000\n"
+"PO-Revision-Date: 2008-12-09 20:06+0100\n"
+"Last-Translator: Martin Mozos <martinmozos@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:11
+msgid "Edit Survey"
+msgstr "Inkesta editatu"
+
+#: functions.php:14
+#: functions.php:291
+msgid "Survey Title"
+msgstr "Inkestaren titulua"
+
+#: functions.php:20
+msgid "Survey Description"
+msgstr "Deskribapena"
+
+#: functions.php:26
+msgid "Days until user can repost"
+msgstr "Erabiltzaileak berriz erantzuteko egun kopurua"
+
+#: functions.php:46
+#: functions.php:110
+#: functions.php:123
+#: functions.php:416
+#: functions.php:511
+#: functions.php:518
+msgid "Go back!"
+msgstr "Atzera!"
+
+#: functions.php:47
+#: functions.php:111
+#: wp-surveys.php:157
+msgid "Add More Questions"
+msgstr "Galdera gehiago atxiki"
+
+#: functions.php:48
+#: functions.php:112
+#: functions.php:125
+#: wp-surveys.php:147
+msgid "Update"
+msgstr "Eguneratu"
+
+#: functions.php:51
+#: functions.php:115
+#: functions.php:128
+#: wp-surveys.php:151
+msgid "Activate"
+msgstr "Aktibatu"
+
+#: functions.php:53
+#: functions.php:117
+#: functions.php:130
+#: wp-surveys.php:153
+#: wp-surveys.php:193
+msgid "Retire"
+msgstr "Baztertu"
+
+#: functions.php:58
+#, php-format
+msgid "Question %s:"
+msgstr "%s galdera:"
+
+#: functions.php:61
+msgid "Alignment Vertical"
+msgstr "Lerrokatze bertikala"
+
+#: functions.php:63
+msgid "Alignment Horizontal"
+msgstr "Lerrokatze horizontala"
+
+#: functions.php:65
+msgid "Alignment Menu"
+msgstr "Menu lerrokatzea"
+
+#: functions.php:96
+#: wp-surveys.php:155
+msgid "Edit Options"
+msgstr "Aukerak editatu"
+
+#: functions.php:98
+#: wp-surveys.php:155
+msgid "Edit or Add more Options"
+msgstr "Aukerak editatu edo gehiago atxiki"
+
+#: functions.php:100
+#: functions.php:496
+#: wp-surveys.php:155
+msgid "Add Some Options"
+msgstr "Erantzunenbat atxiki"
+
+#: functions.php:124
+#: functions.php:401
+#: functions.php:517
+#: wp-surveys.php:157
+msgid "Add Some Questions"
+msgstr "Galderarenbat atxiki"
+
+#: functions.php:143
+#: functions.php:159
+#: functions.php:173
+msgid "ERROR!!"
+msgstr "ERROREA!!"
+
+#: functions.php:144
+msgid "Question Title have been left empty!"
+msgstr "Galderaren titulua hutsik utzi duzu!"
+
+#: functions.php:144
+#: functions.php:160
+#: functions.php:175
+msgid "No changes had been made in database"
+msgstr "Ez da aldaketarik idatzi datubasean"
+
+#: functions.php:160
+msgid "Days until user can repost must be a number bigger than zero!"
+msgstr "Erabiltzaileak berriz erantzuteko egun kopurua zero baino haundiagoko zenbakia izan behar da!"
+
+#: functions.php:174
+#, php-format
+msgid "Question %s have been left empty!"
+msgstr "%s galdera hutsik utzi duzu!"
+
+#: functions.php:185
+#: functions.php:217
+msgid "No changes had been made"
+msgstr "Ez da aldaketarik egin"
+
+#: functions.php:195
+#: functions.php:222
+msgid "Update Complete!"
+msgstr "Eguneratzea egina!"
+
+#: functions.php:195
+#: functions.php:222
+#: functions.php:234
+#: functions.php:243
+msgid "Changes have been applied"
+msgstr "Aldaketak gorde dira"
+
+#: functions.php:223
+#: functions.php:384
+#: wp-surveys.php:145
+msgid "Back to Edit Survey"
+msgstr "Itzuli inkesta editatzera"
+
+#: functions.php:224
+#: functions.php:385
+#: functions.php:402
+msgid "Continue"
+msgstr "Jarraitu"
+
+#: functions.php:234
+msgid "Activation Complete!"
+msgstr "Aktibazioa egina!"
+
+#: functions.php:243
+msgid "Retire Complete!"
+msgstr "Baztertzea egina!"
+
+#: functions.php:260
+msgid "CAUTION!!"
+msgstr "KONTUZ!!"
+
+#: functions.php:260
+msgid "Changing the text of options will affect the way that results are compiled for display on your site. Only current options (case-sensitive text) will be tallied in result generation"
+msgstr "Erantzunen aukeren aldaketak gordetako emaitzetan izango du eragina. Uneko aukerek soilik egingo dute gordetako emaitzekin bat, hauek aldatuz gero gordetako emaitzak ezabatuko dira"
+
+#: functions.php:260
+#: functions.php:283
+msgid "Back to manage surveys"
+msgstr "Inkestak kudeatzera itzuli"
+
+#: functions.php:262
+msgid "Edit/Update Options"
+msgstr "Aukerak editatu/eguneratu"
+
+#: functions.php:267
+#: functions.php:269
+#: functions.php:301
+#: functions.php:467
+msgid "Question"
+msgstr "Galdera"
+
+#: functions.php:274
+#: functions.php:361
+#, php-format
+msgid "Option %s"
+msgstr "%s aukera"
+
+#: functions.php:281
+#: wp-surveys.php:149
+msgid "Update Options"
+msgstr "Gorde aukerak"
+
+#: functions.php:282
+#: wp-surveys.php:145
+msgid "Cancel"
+msgstr "Utzi"
+
+#: functions.php:289
+msgid "Add a New Survey"
+msgstr "Inkesta berria atxiki"
+
+#: functions.php:292
+#: wp-surveys.php:183
+#: wp-surveys.php:215
+msgid "Description"
+msgstr "Deskribapena"
+
+#: functions.php:294
+#: wp-surveys.php:165
+msgid "Add This Survey"
+msgstr "Inkesta hau atxiki"
+
+#: functions.php:299
+msgid "Step 1: Define Question"
+msgstr "1go pausua: Galdera definitu"
+
+#: functions.php:303
+msgid "Alignment"
+msgstr "Lerrokatzea"
+
+#: functions.php:311
+msgid "Select answers alignment"
+msgstr "Erantzunen lerrokatzea aukeratu"
+
+#: functions.php:314
+msgid "Choice - Vertical"
+msgstr "Aukera - Bertikala"
+
+#: functions.php:317
+msgid "Choice - Horizontal"
+msgstr "Aukera - Horizontala"
+
+#: functions.php:320
+msgid "Choice - Menu"
+msgstr "Aukera - Menu"
+
+#: functions.php:336
+#: wp-surveys.php:159
+msgid "Step 2"
+msgstr "2. pausua"
+
+#: functions.php:341
+msgid "Please, fill all fields!!"
+msgstr "Eremu guztiak bete mesedez!!"
+
+#: functions.php:345
+msgid "Please, fill Question field!!"
+msgstr "Galderaren eremua bete mesedez!"
+
+#: functions.php:349
+msgid "Please, select answers Alignment!!"
+msgstr "Erantzunen lerrokatzea aukeratu mesedez!"
+
+#: functions.php:354
+msgid "Step 2: Create your question options"
+msgstr "2. pausua: Zure inkesta aukerak sortu"
+
+#: functions.php:356
+msgid "Questions can have up to ten response options. List your options below"
+msgstr "Galderek hamar erantzun aukera izan ditzakete gehienera. Idatzi zure aukerak hemen"
+
+#: functions.php:372
+#: wp-surveys.php:161
+msgid "Create Question"
+msgstr "Galdera sortu"
+
+#: functions.php:381
+msgid "Step 3: Updating Database..."
+msgstr "3. pausua: Datubasea eguneratzen..."
+
+#: functions.php:382
+msgid "Complete!"
+msgstr "Egina!"
+
+#: functions.php:390
+msgid "Please, fill Title field!!"
+msgstr "Tituluaren eremua idatzi mesedez!"
+
+#: functions.php:400
+msgid "Survey succesfully created!"
+msgstr "Inkesta ondo burutu da!"
+
+#: functions.php:400
+msgid "Thank You. A new survey has been added and the previous survey has been retired"
+msgstr "Mila esker, inkesta berri bat atxiki duzu eta aurrekoa baztertu egin da"
+
+#: functions.php:415
+msgid "Your Survey Results"
+msgstr "Zure inkestaren emaitzak"
+
+#: functions.php:454
+#: wp-surveys.php:125
+#: wp-surveys-out.php:101
+msgid "No response recorded"
+msgstr "Ez da erantzunik"
+
+#: functions.php:479
+#, php-format
+msgid "%s responses"
+msgstr "%s erantzun"
+
+#: functions.php:495
+#: wp-surveys.php:123
+msgid "No option(s) defined yet"
+msgstr "Oraindino ez da aukerarik definitu"
+
+#: functions.php:516
+msgid "There are no Question defined yet"
+msgstr "Oraindino ez da galderarik definitu"
+
+#: wp-surveys.php:60
+msgid "Surveys"
+msgstr "Inkestak"
+
+#: wp-surveys.php:85
+#: wp-surveys-out.php:188
+msgid "Submit Survey"
+msgstr "Inkesta gorde"
+
+#: wp-surveys.php:145
+#: wp-surveys.php:191
+#: wp-surveys.php:223
+msgid "Edit"
+msgstr "Editatu"
+
+#: wp-surveys.php:151
+#: wp-surveys.php:225
+msgid "Make Active"
+msgstr "Aktibatu"
+
+#: wp-surveys.php:163
+#: wp-surveys.php:202
+msgid "Change Survey"
+msgstr "Inkesta aldatu"
+
+#: wp-surveys.php:163
+#: wp-surveys.php:209
+msgid "Add Survey"
+msgstr "Inkesta atxiki"
+
+#: wp-surveys.php:167
+#: wp-surveys.php:195
+#: wp-surveys.php:227
+msgid "View Survey Results"
+msgstr "Ikusi emaitzak"
+
+#: wp-surveys.php:180
+msgid "Survey Management"
+msgstr "Inkesten kudeatzea"
+
+#: wp-surveys.php:180
+msgid "Active Survey"
+msgstr "Uneko inkesta"
+
+#: wp-surveys.php:183
+#: wp-surveys.php:215
+msgid "Title"
+msgstr "Titulua"
+
+#: wp-surveys.php:202
+msgid "Current Survey will be saved as Retired"
+msgstr "Uneko inkesta baztertua izango da"
+
+#: wp-surveys.php:205
+msgid "There are no open surveys"
+msgstr "Ez da inkesta aktiborik"
+
+#: wp-surveys.php:212
+msgid "Retired Surveys"
+msgstr "Bazterturiko inkestak"
+
+#: wp-surveys.php:234
+msgid "There are no retired surveys"
+msgstr "Une honetan ez dago inkestarik"
+
+#: wp-surveys-out.php:10
+msgid "Thank you for your assistance in completing our survey!"
+msgstr "Mila esker gure inkesta osatzen emandako denboragatik!"
+
+#: wp-surveys-out.php:22
+msgid "Oops, you forgot to vote for one or more of the questions!"
+msgstr "Erantzunenbat bozkatzea ahaztu duzu!"
+
+#: wp-surveys-out.php:101
+msgid "Select an answer below"
+msgstr "Erantzun bat aukeratu"
+
+#: wp-surveys-out.php:191
+msgid "This survey has no questions yet."
+msgstr "Oraindino inkesta honek ez du galderarik"
+
+#: wp-surveys-out.php:193
+msgid "There are no surveys to display."
+msgstr "Ez dago inkestarik bistaratzeko."
+
